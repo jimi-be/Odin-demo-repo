@@ -1,4 +1,4 @@
-A asimple text file to play with git commands
+A simple text file to play with git commands
 
 adding some text
 add more text
