@@ -1,3 +1,5 @@
+A asimple text file to play with git commands
+
 adding some text
 add more text
 add even more text
